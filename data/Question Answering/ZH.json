@@ -1,0 +1,168 @@
+{
+	"data": [
+		{
+			"title": "lu_ding_ji_823",
+			"paragraphs": [
+				{
+					"context": "膏药中间的药膏硬结在一块，总得点了火烘焙多时，才拉得开。可是他只是在双掌间夹得片刻，便以内力烘软药膏，这份功力可真了不起。他将药膏拉平之后，药膏热气腾腾。那卢一峰却兀自不悟，一叠连声的催促家丁上前拿人。我便不再拦阻那官儿的走狗，由得他们去自讨苦吃。一名家丁见我让开，当即向那老贼冲去。那老贼笑道：“你要膏药？将那张膏药放在家丁手中。那家丁骂道：‘老狗，你干什么？’那老贼在他手臂上一推，那家丁移过身去，拍的一声响，那张热烘烘的膏药，正好贴在卢一峰那狗官的嘴上……”",
+					"qas": [
+						{
+							"answers": [
+								{
+									"answer_start": 13,
+									"text": "总得点了火烘焙多时"
+								},
+								{
+									"answer_start": 15,
+									"text": "点了火烘焙多时"
+								},
+								{
+									"answer_start": 15,
+									"text": "点了火烘焙多时"
+								}
+							],
+							"question": "平常如何将膏药中间的药膏分开？",
+							"id": "TEST_lu_ding_ji_823_QUERY_0_ZH"
+						},
+						{
+							"answers": [
+								{
+									"answer_start": 30,
+									"text": "他只是在双掌间夹得片刻，便以内力烘软药膏"
+								},
+								{
+									"answer_start": 43,
+									"text": "以内力烘软药膏"
+								},
+								{
+									"answer_start": 43,
+									"text": "以内力烘软药膏"
+								}
+							],
+							"question": "他是如何将药膏分开的？",
+							"id": "TEST_lu_ding_ji_823_QUERY_1_ZH"
+						},
+						{
+							"answers": [
+								{
+									"answer_start": 154,
+									"text": "将那张膏药放在家丁手中"
+								},
+								{
+									"answer_start": 161,
+									"text": "家丁手中"
+								},
+								{
+									"answer_start": 159,
+									"text": "放在家丁手中"
+								}
+							],
+							"question": "他将膏药放在哪？",
+							"id": "TEST_lu_ding_ji_823_QUERY_2_ZH"
+						},
+						{
+							"answers": [
+								{
+									"answer_start": 218,
+									"text": "贴在卢一峰那狗官的嘴上"
+								},
+								{
+									"answer_start": 220,
+									"text": "卢一峰那狗官的嘴上"
+								},
+								{
+									"answer_start": 220,
+									"text": "卢一峰那狗官的嘴上"
+								}
+							],
+							"question": "那老贼将膏药贴在了哪儿？",
+							"id": "TEST_lu_ding_ji_823_QUERY_3_ZH"
+						}
+					]
+				}
+			]
+		},
+		{
+			"title": "lu_ding_ji_1827",
+			"paragraphs": [
+				{
+					"context": "官兵队中那守备向掌柜打听去北京的路程。掌柜道：“众位老爷今日再赶二三十里路，到前面镇上住店。明儿一早动身，午后准能赶到京城。”那守备道：“我们要连夜赶路，住什么店？掌柜的，打从今儿起一年内，包你生意大旺，得多备些好酒好菜，免得到时候手忙脚乱。”那掌柜笑道： “老爷说得好。小店生意向来平常，像今天这样的生意，一个月中难得有几天，那是众位老爷和客官照顾。哪能天天有这么多贵人光临呢？”那守备笑道：“掌柜的，我教你一个乖。吴三桂造反，已打到了湖南，我们是赶到京里去呈送军文书的。这一场大仗打下来，少说也得打他三年五载。禀报军情的天天要打从这里经过，你这财是有得发了。”",
+					"qas": [
+						{
+							"answers": [
+								{
+									"answer_start": 13,
+									"text": "北京"
+								},
+								{
+									"answer_start": 13,
+									"text": "北京"
+								},
+								{
+									"answer_start": 13,
+									"text": "北京"
+								}
+							],
+							"question": "那守备想要去哪？",
+							"id": "TEST_lu_ding_ji_1827_QUERY_0_ZH"
+						},
+						{
+							"answers": [
+								{
+									"answer_start": 230,
+									"text": "呈送军文书"
+								},
+								{
+									"answer_start": 225,
+									"text": "赶到京里去呈送军文书"
+								},
+								{
+									"answer_start": 225,
+									"text": "赶到京里去呈送军文书"
+								}
+							],
+							"question": "守备为什么急忙进京？",
+							"id": "TEST_lu_ding_ji_1827_QUERY_1_ZH"
+						},
+						{
+							"answers": [
+								{
+									"answer_start": 209,
+									"text": "吴三桂"
+								},
+								{
+									"answer_start": 209,
+									"text": "吴三桂"
+								},
+								{
+									"answer_start": 209,
+									"text": "吴三桂"
+								}
+							],
+							"question": "谁打到了湖南？",
+							"id": "TEST_lu_ding_ji_1827_QUERY_2_ZH"
+						},
+						{
+							"answers": [
+								{
+									"answer_start": 252,
+									"text": "三年五载"
+								},
+								{
+									"answer_start": 246,
+									"text": "少说也得打他三年五载"
+								},
+								{
+									"answer_start": 246,
+									"text": "少说也得打他三年五载"
+								}
+							],
+							"question": "这场大仗要打多长时间？",
+							"id": "TEST_lu_ding_ji_1827_QUERY_3_ZH"
+						}
+					]
+				}
+			]
+		}
+	]
+}

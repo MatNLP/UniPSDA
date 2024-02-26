@@ -1,0 +1,104 @@
+{
+	"data": [
+		{
+			"title": "liao_bu_qi_de_gai_ci_bi_174",
+			"paragraphs": [
+				{
+					"context": "He opened the door, but she moved out from the circle of his arm.“You take Nick and Jordan. We’ll follow you in the coupe.”She walked close to Gatsby, touching his coat with her hand. Jordan and Tom and I got into the front seat of Gatsby’s car, Tom pushed the unfamiliar gears tentatively, and we shot off into the oppressive heat, leaving them out of sight behind.“Did you see that?” demanded Tom.“See what?”He looked at me keenly, realizing that Jordan and I must have known all along.“You think I’m pretty dumb, don’t you?” he suggested. “Perhaps I am, but I have a—almost a second sight, sometimes, that tells me what to do. Maybe you don’t believe that, but science——”",
+					"qas": [
+						{
+							"answers": [
+								{
+									"answer_start": 160,
+									"text": "his coat"
+								}
+							],
+							"question": "Where does she touch Gatsby with her hand?",
+							"id": "TRAIN_liao_bu_qi_de_gai_ci_bi_174_QUERY_0_EN"
+						},
+						{
+							"answers": [
+								{
+									"answer_start": 232,
+									"text": "Gatsby’s car"
+								}
+							],
+							"question": "Whose car did Jordan and Tom get into?",
+							"id": "TRAIN_liao_bu_qi_de_gai_ci_bi_174_QUERY_1_EN"
+						},
+						{
+							"answers": [
+								{
+									"answer_start": 195,
+									"text": "Tom"
+								}
+							],
+							"question": "Who drive Gatsby's car?",
+							"id": "TRAIN_liao_bu_qi_de_gai_ci_bi_174_QUERY_2_EN"
+						},
+						{
+							"answers": [
+								{
+									"answer_start": 570,
+									"text": "almost a second sight"
+								}
+							],
+							"question": "What made Tom see something?",
+							"id": "TRAIN_liao_bu_qi_de_gai_ci_bi_174_QUERY_3_EN"
+						}
+					]
+				}
+			]
+		},
+		{
+			"title": "lu_ding_ji_142",
+			"paragraphs": [
+				{
+					"context": "The Heir raised his wine-cup and proposed a toast. 'To His Highness Prince Kang's incredibly accurate shooting!' The company all raised their wine-cups in response and drained them at a single draught. Prince Kang beamed delightedly. 'That young Laurie is a real little charmer,' he thought. 'No wonder the Emperor is so pleased with him.' 'Your Highness, what about inviting those Martial Arts experts you were telling us about to come and join us?' said Dolong. 'I'm sure we'd all like to have a look at them.' The Prince had been longing to show off his new acquisition and instructed a servant to call them in. 'Let's have a couple of extra tables laid here. And tell Father Illuminatus and the others we'd like them to join the party.' After a short delay a group of some twenty men came trooping in from the back of the hall led by a large, fat monk in a plum-coloured habit. Prince Kang rose to greet them. 'My good friends,' he said affably, 'I thought you might like to have a drink with us.' Seeing the Prince rise to welcome them, the rest of the company felt obliged to do likewise.",
+					"qas": [
+						{
+							"answers": [
+								{
+									"answer_start": 52,
+									"text": "To His Highness Prince Kang's incredibly accurate shooting"
+								}
+							],
+							"question": "Why did young Laurie propose a toast to Prince Kang?",
+							"id": "TRAIN_lu_ding_ji_142_QUERY_0_EN"
+						},
+						{
+							"answers": [
+								{
+									"answer_start": 258,
+									"text": "real little charmer"
+								}
+							],
+							"question": "How did Prince Kang think of young Laurie?",
+							"id": "TRAIN_lu_ding_ji_142_QUERY_1_EN"
+						},
+						{
+							"answers": [
+								{
+									"answer_start": 342,
+									"text": "our Highness, what about inviting those Martial Arts experts you were telling us about to come and join us"
+								}
+							],
+							"question": "Who is Father Illuminatus?",
+							"id": "TRAIN_lu_ding_ji_142_QUERY_2_EN"
+						},
+						{
+							"answers": [
+								{
+									"answer_start": 672,
+									"text": "Father Illuminatus"
+								}
+							],
+							"question": "Who  is  fat monk in a plum-coloured habit?",
+							"id": "TRAIN_lu_ding_ji_142_QUERY_3_EN"
+						}
+					]
+				}
+			]
+		}]
+}
+		
